@@ -1,0 +1,11 @@
+# Compiled binaries
+dictionary
+*.o
+*.out
+*.exe
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
